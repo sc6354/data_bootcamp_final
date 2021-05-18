@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/opt/anaconda3/bin/python"
+    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/tf/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
